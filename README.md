@@ -43,7 +43,7 @@
 # 📖 [Greetings ] <a name="about-project"></a>
 
 
-**MyGreeting-app** is a simple back end application that return an API random greetings, ruby on rails (backend)
+**MyGreeting-app** is a simple back-end application that returns an API random greetings, ruby on rails (backend)
 
 [Front-End Project](https://github.com/isume295/hello-react-front-end)
 
@@ -98,7 +98,7 @@ Example commands:
 
 using Ubuntu:
 
-```sh
+ 
   cd my-desired-folder
   git clone git@github.com:isume295/hello-rails-back-end.git
 ```
@@ -171,8 +171,7 @@ Give a ⭐️ if you like this project!
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-<a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by justicon - Flaticon</a><br />
+ 
 
 - Thanks to all Microverse community
 
